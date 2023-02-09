@@ -1,0 +1,12 @@
+[submodule "deps/kicad-lib-arduino"]
+	path = deps/kicad-lib-arduino
+	url = https://github.com/g200kg/kicad-lib-arduino
+[submodule "deps/mx_alps_hybrid"]
+	path = deps/mx_alps_hybrid
+	url = https://github.com/ai03-2725/MX_Alps_Hybrid.git
+[submodule "deps/keyboard_parts.pretty"]
+	path = deps/keyboard_parts.pretty
+	url = https://github.com/tmk/keyboard_parts.pretty.git
+[submodule "deps/kicad_lib_tmk"]
+	path = deps/kicad_lib_tmk
+	url = https://github.com/tmk/kicad_lib_tmk.git
