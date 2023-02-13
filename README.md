@@ -1,1 +1,3 @@
-Simple36
+# Simple36
+
+![keyboard](docs/images/keyboard.jpg)
