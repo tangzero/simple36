@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "keyboad_parts")(type "KiCad")(uri "${KIPRJMOD}/deps/keyboad_parts.pretty")(options "")(descr ""))
+  (lib (name "Arduino")(type "KiCad")(uri "${KIPRJMOD}/deps/kicad-lib-arduino/Arduino.pretty")(options "")(descr ""))
+  (lib (name "3d_shapes")(type "KiCad")(uri "${KIPRJMOD}/deps/mx_alps_hybrid/MX_Only.pretty/3d_shapes")(options "")(descr ""))
+)

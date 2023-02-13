@@ -10,3 +10,15 @@
 [submodule "deps/kicad_lib_tmk"]
 	path = deps/kicad_lib_tmk
 	url = https://github.com/tmk/kicad_lib_tmk.git
+[submodule "pcb/deps/kicad-lib-arduino"]
+	path = pcb/deps/kicad-lib-arduino
+	url = https://github.com/g200kg/kicad-lib-arduino.git
+[submodule "pcb/deps/mx_alps_hybrid"]
+	path = pcb/deps/mx_alps_hybrid
+	url = https://github.com/ai03-2725/MX_Alps_Hybrid.git
+[submodule "pcb/deps/kicad_lib_tmk"]
+	path = pcb/deps/kicad_lib_tmk
+	url = https://github.com/tmk/kicad_lib_tmk.git
+[submodule "pcb/deps/keyboad_parts.pretty"]
+	path = pcb/deps/keyboad_parts.pretty
+	url = https://github.com/tmk/keyboard_parts.pretty.git

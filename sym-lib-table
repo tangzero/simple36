@@ -1,5 +1,0 @@
-(sym_lib_table
-  (lib (name "MX_Alps_Hybrid")(type "Legacy")(uri "${KIPRJMOD}/deps/mx_alps_hybrid/Schematic Library/MX_Alps_Hybrid.lib")(options "")(descr ""))
-  (lib (name "Arduino")(type "Legacy")(uri "${KIPRJMOD}/deps/kicad-lib-arduino/Arduino.lib")(options "")(descr ""))
-  (lib (name "keyboard_parts")(type "Legacy")(uri "${KIPRJMOD}/deps/kicad_lib_tmk/keyboard_parts.lib")(options "")(descr ""))
-)
